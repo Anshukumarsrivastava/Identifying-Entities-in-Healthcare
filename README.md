@@ -1,4 +1,15 @@
-# Identifying-Entities-in-Healthcare-Data
+# Identifying-Entities-in-Healthcare-Data Case study IIITB Assignment
+
+
+My profile - https://learn.upgrad.com/my-profile
+
+My Git Code - https://github.com/Anshukumarsrivastava/Identifying-Entities-in-Healthcare
+
+
+Developed by:
+
+Anshu Kumar srivastava (https://github.com/Anshukumarsrivastava)
+
 
 ##
 # **Problem Statement**
